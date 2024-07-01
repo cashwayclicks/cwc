@@ -11,8 +11,8 @@ import {MyProvider} from "./Pages/resumecontext";
 function App() {
   return (
     <div className="App">
-    <MyProvider className="App">
-      <Router basename="/cashway">
+    
+      <BrowserRouter Basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/legal" element={<Legal />} />
@@ -20,8 +20,7 @@ function App() {
           <Route path="/appointment" element={<Appointment />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-      </Router>
-      </MyProvider>
+    </BrowserRouter>
     </div>
   );
 }
