@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cwc/static/css/main.54686b19.css",
-    "main.js": "/cwc/static/js/main.18016714.js",
+    "main.js": "/cwc/static/js/main.666bd30a.js",
     "static/media/doctor-book-appointment.gif": "/cwc/static/media/doctor-book-appointment.8fc82859b623b8f8e37d.gif",
     "static/media/home.mp3": "/cwc/static/media/home.3df0f8e3416c941cb14c.mp3",
     "static/media/doctor-book-appointment.png": "/cwc/static/media/doctor-book-appointment.a6e2c24520cc86c1f8ba.png",
@@ -14,10 +14,10 @@
     "static/media/profile-2.png": "/cwc/static/media/profile-2.05f55875776c300e7eef.png",
     "index.html": "/cwc/index.html",
     "main.54686b19.css.map": "/cwc/static/css/main.54686b19.css.map",
-    "main.18016714.js.map": "/cwc/static/js/main.18016714.js.map"
+    "main.666bd30a.js.map": "/cwc/static/js/main.666bd30a.js.map"
   },
   "entrypoints": [
     "static/css/main.54686b19.css",
-    "static/js/main.18016714.js"
+    "static/js/main.666bd30a.js"
   ]
 }
